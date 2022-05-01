@@ -27,6 +27,8 @@
 
 ### 🌟 Projects
 
+- AI 음성인식 기반 대화형 상담 애착인형 플랫폼 개발 (2022.04 ~ 2022.12)
+
 ### 🔥 Activities
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FL2HYUNN&count_bg=%237798DE&title_bg=%23757575&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
