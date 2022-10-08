@@ -22,8 +22,6 @@
 
 [![ReactJS](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white)]() [![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)]()  
 
-[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)]()
-
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)]() [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)]()
 
 
