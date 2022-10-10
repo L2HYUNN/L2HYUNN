@@ -3,7 +3,7 @@
 
 ***
 
-- 🌱 I’m currently learning `JavaScript`, `TypeScript`, `NodeJS`, `ReactJS`, `NextJS`
+- 🌱 I’m currently learning `JavaScript`, `TypeScript`, `ReactJS`, `NextJS`
 - 🧑🏻‍💻 I'm studying to be Front-end Developer
 - 📫 How to reach me: donghyun98@gmail.com
 - ✍🏻 My blog: https://velog.io/@chillihc
