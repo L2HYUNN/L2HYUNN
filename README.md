@@ -41,7 +41,7 @@
 - 의류 판매 쇼핑몰 플랫폼 **OUR CLOTHING** 개발 ( 2022.05 ~ 2022.07 ) 
 - 언제 어디서든, 내 손 안의 간편한 날씨 **한줄날씨** 개발 ( 2022.07 ~ 2022.08 )
 - 심리 상담 AI 챗봇 **PUE** 플랫폼 개발 ( 2022.09 ~ 2022.11 )
-- 윈윈하는 재능 교환 서비스 **PingPong** 개발 ( 2022.09 ~ ing ) 
+- 윈윈하는 재능 교환 서비스 **PingPong** 개발 ( 2022.09 ~ 2023.01 ) 
 
 
 ### 🔥 Activities
@@ -49,7 +49,7 @@
 - OUR CLOTHING ( 2022.05 ~ 2022.07 ) 
 - DND 7th ( 2022.07 ~ 2022.08 )
 - FutureRoi ( 2022.09 ~ 2022.11 )
-- DEPROMEET 12th ( 2022.09 ~ ing )
+- DEPROMEET 12th ( 2022.09 ~ 2023.01 )
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FL2HYUNN&count_bg=%237798DE&title_bg=%23757575&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
