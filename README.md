@@ -11,7 +11,7 @@ I've been developing frontend using React and Next.
 
 <b>Mainly used:</b>
 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=React&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=Next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=React&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/-Next-000?style=flat-square&logo=Next.js&logoColor=white" />
 
 <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" /> <img src="https://img.shields.io/badge/-styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 
