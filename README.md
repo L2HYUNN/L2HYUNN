@@ -19,7 +19,7 @@ I've been developing frontend using React and Next.
 
 <b>Interested:</b>
 
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Remix-000?style=flat-square&logo=Remix&logoColor=white" /> <img src="https://img.shields.io/badge/-Nest-E0234E?style=flat-square&logo=NestJS&logoColor=white" /> <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Remix-000?style=flat-square&logo=Remix&logoColor=white" /> <img src="https://img.shields.io/badge/-Nest-E0234E?style=flat-square&logo=NestJS&logoColor=white" /> <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
 
 
 <b>Tools</b>
